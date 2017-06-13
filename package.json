@@ -1,0 +1,19 @@
+{
+  "name": "linechart-drawer-js",
+  "version": "1.0.0",
+  "description": "Basic line chart drawer script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visualn/linechart-drawer-js.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/visualn/linechart-drawer-js/issues"
+  },
+  "homepage": "https://github.com/visualn/linechart-drawer-js#readme"
+}
